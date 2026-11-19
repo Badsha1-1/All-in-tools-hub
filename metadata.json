@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tools Hub",
+  "description": "Your Everyday Tools, All in One Place. 46+ fast, privacy-first browser utilities across 10 categories including Image, PDF, Calculators, QR/Barcode, Text, Developer, Security, Student, Productivity, and Creator tools.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
